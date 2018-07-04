@@ -1,3 +1,7 @@
-# Example Site
+# [2018]夏季學院 資料科學程式設計
 
-This is a readme file.
+我叫嚴凱琳
+
+* 獅子座
+* 興趣:打羽球
+
