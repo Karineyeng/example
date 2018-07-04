@@ -1,8 +1,8 @@
 # [*2018*]夏季學院 資料科學程式設計
 
-我叫**嚴凱琳**
+大家好,我叫**嚴凱琳**, 就讀UIUC MSF, 碩一
 
-* 興趣:騎腳踏車,打羽球
+
 
 
 ## Week 1
@@ -16,11 +16,8 @@ R| R studio
 original| Revised
 Ugly| Pretty
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
-[Link](https://www.rstudio.com/)
+[Link](https://karineyeng.github.io/example/week1/123.html)
 
-image: ![](https://i1.kknews.cc/SIG=3adeop6/2rp2000459983o9o3974.jpg)
 
 *****
