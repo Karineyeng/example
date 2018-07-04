@@ -19,7 +19,7 @@ Ugly| Pretty
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-[Link](www.rstudio.com)
+[Link](https://www.rstudio.com/)
 
 image: ![](https://i1.kknews.cc/SIG=3adeop6/2rp2000459983o9o3974.jpg)
 
