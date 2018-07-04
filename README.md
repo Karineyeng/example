@@ -18,6 +18,6 @@ Ugly| Pretty
 
 
 [Link](https://karineyeng.github.io/example/week1/123.html)
-
+[Link](https://karineyeng.github.io/example/week2/678.html)
 
 *****
