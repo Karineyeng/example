@@ -2,6 +2,10 @@
 
 我叫嚴凱琳
 
-* 獅子座
 * 興趣:打羽球
 
+## Week 1
+
+1. Gibhub
+2. Gibhub Desktop
+3. R & R studio setup
