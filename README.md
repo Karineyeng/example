@@ -4,8 +4,14 @@
 
 * 興趣:騎腳踏車,打羽球
 
+
 ## Week 1
 
 1. Gibhub
 2. Gibhub Desktop
 3. R & R studio setup
+
+R| R studio
+-| --------
+original| Revised
+Ugly| Pretty
