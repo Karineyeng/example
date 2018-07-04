@@ -15,3 +15,6 @@ R| R studio
 -| --------
 original| Revised
 Ugly| Pretty
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
