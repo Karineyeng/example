@@ -30,4 +30,4 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 *****
 ## Week 2 (7.11.2018)
 
-[Week 2 ppt](https://docs.google.com/presentation/d/e/2PACX-1vR3Ck9XlFN-Q8E9Nkntwz42cz0P95vlGOYVlhwoTdRGsW8vns_5slFzcG8EmOemPA6ynDNiwOhBh6_v/pub?start=false&loop=false&delayms=3000&slide=id.g3d64847d21_0_1470)
+[Week 2 ppt](https://docs.google.com/presentation/d/e/2PACX-1vR3Ck9XlFN-Q8E9Nkntwz42cz0P95vlGOYVlhwoTdRGsW8vns_5slFzcG8EmOemPA6ynDNiwOhBh6_v/pub?start=false&loop=false&delayms=3000&slide=id.p)
