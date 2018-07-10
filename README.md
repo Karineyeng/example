@@ -27,7 +27,7 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 
 [Week1 hw_Rmarkdown](https://karineyeng.github.io/example/week1/week11.html)
 
-[Week1 hw_Practice](https://karineyeng.github.io/example/week2/678.html)
+[Week1 hw_Practice](https://karineyeng.github.io/example/week1/678.html)
 
 *****
 ## Week 2 (7.11.2018)
