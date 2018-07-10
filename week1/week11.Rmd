@@ -1,5 +1,5 @@
 ---
-title: "week1 HW"
+title: "Week1 hw"
 author: "Katherine"
 date: "July 10, 2018"
 output: html_document

@@ -25,6 +25,8 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 
 [Gitbook](https://n2-data-science-programming.gitbook.io/rsummer/)
 
+[Link1](https://karineyeng.github.io/example/week1/week11)
+
 [Link](https://karineyeng.github.io/example/week2/678.html)
 
 *****
