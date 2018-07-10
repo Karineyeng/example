@@ -17,7 +17,7 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 
 **At home
 1. Revise README.md context
-2. 
+2. Upload Rmarkdown to Github
 
 [Week 1 ppt](https://docs.google.com/presentation/d/e/2PACX-1vT_jHywO0SrsD_H8Ta4NiSqtCdQlVJawDbuO_sia_k0g-09g1uvw9er-iBgPStNJlJ4B7tEcMKFqNW5/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
@@ -28,3 +28,6 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 [Link](https://karineyeng.github.io/example/week2/678.html)
 
 *****
+## Week 2 (7.11.2018)
+
+[Week 2 ppt](https://docs.google.com/presentation/d/e/2PACX-1vR3Ck9XlFN-Q8E9Nkntwz42cz0P95vlGOYVlhwoTdRGsW8vns_5slFzcG8EmOemPA6ynDNiwOhBh6_v/pub?start=false&loop=false&delayms=3000&slide=id.g3d64847d21_0_1470)
