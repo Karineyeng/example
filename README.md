@@ -14,7 +14,7 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 5. R & R studio installed
 6. Create Markdown on R studio 
 
-[Week 1 ppt](goo.gl/uGUiJk)
+[Week 1 ppt](https://docs.google.com/presentation/d/e/2PACX-1vT_jHywO0SrsD_H8Ta4NiSqtCdQlVJawDbuO_sia_k0g-09g1uvw9er-iBgPStNJlJ4B7tEcMKFqNW5/pub?start=false&loop=false&delayms=3000&slide=id.p)
 [Discord](https://discord.gg/r2dx8VZ)
 
 [Link](https://karineyeng.github.io/example/week2/678.html)
