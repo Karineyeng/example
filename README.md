@@ -6,12 +6,12 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 
 ## Week 1 (7.4.2018)
 
-*In class
+**In class
 1. Setup Gibhub account 
 2. Install Gibhub Desktop 
 3. Install Sublime Text 
 4. Create README.md file and upload unto the web Github
-****************************
+-------------------------------------------------------
 5. Install R & R studio 
 6. Create Markdown on R studio 
 
