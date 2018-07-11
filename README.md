@@ -6,18 +6,18 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 
 ## Week 1 (7.4.2018)
 
-**In class
+### In class
 1. Setup Gibhub account 
 2. Install Gibhub Desktop 
 3. Install Sublime Text 
 4. Create README.md file and upload unto the web Github
--------------------------------------------------------
 5. Install R & R studio 
 6. Create Markdown on R studio 
 
-**At home
+### At home
 1. Revise README.md context
 2. Upload Rmarkdown to Github
+3. Learn code from datacamp- Introction to R
 
 [Week 1 ppt](https://docs.google.com/presentation/d/e/2PACX-1vT_jHywO0SrsD_H8Ta4NiSqtCdQlVJawDbuO_sia_k0g-09g1uvw9er-iBgPStNJlJ4B7tEcMKFqNW5/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
@@ -32,28 +32,33 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 *****
 ## Week 2 (7.11.2018)
 
-**In class
-Data Visualization
+###In class
+#### Data Visualization
 1. Install "ggplot2" package on Rstudio to draw graphs
-2. Use Iris dataset(Continuous or Discrete) to draw the graph
+2. Use Iris dataset(Continuous or Discrete Numeric) to draw the graph
 3. Upload results to Github from Rstudio
    --> need 3 different files in the document
 
-Text Mining- WordCloud
-1.Create a Function file and must store in the specific file 
-2.Open another new R script to paste/write down the code from the Mentor's Github
-3.Upload results to Github from Rstudio
-  --> if the ptt rescricted 18 yrs old person entering, it will need to add another code!
+[Task1 Data Visualization](https://karineyeng.github.io/example/week2/DV/W2_DV.html) multivariate figure out!
+
+####Text Mining- WordCloud
+1. Create a Function file and must store in the specific file 
+2. Open another new R script to paste/write down the code from the Mentor's Github
+3. Upload results to Github from Rstudio
+  --> {if the ptt rescricted 18 yrs old person entering, it will need to add another code!
 		  因為你沒處理 over18 的 cookie
 		library(RCurl)
 		curl <- getCurlHandle()
 		curlSetOpt(cookie="over18=1", followlocation = TRUE, curl=curl)
-		url <- 'https://www.ptt.cc/bbs/Gossiping/index20865.html'
-
+		url <- 'https://www.ptt.cc/bbs/Gossiping/index20865.html'}
 
 [WordCloudStyling](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html)
+
+### At home 
+1. Learn code from Datacamp
+
 -----------------------------------------------------------------------------------------------
 [Week 2 ppt](https://docs.google.com/presentation/d/e/2PACX-1vR3Ck9XlFN-Q8E9Nkntwz42cz0P95vlGOYVlhwoTdRGsW8vns_5slFzcG8EmOemPA6ynDNiwOhBh6_v/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
-[Task1 Data Visualization](https://karineyeng.github.io/example/week2/DV/W2_DV.html) multivariate figure out!
+
 [Task2 Text mining] 
