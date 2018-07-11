@@ -39,4 +39,4 @@ Data Visualization
 
 [Week 2 ppt](https://docs.google.com/presentation/d/e/2PACX-1vR3Ck9XlFN-Q8E9Nkntwz42cz0P95vlGOYVlhwoTdRGsW8vns_5slFzcG8EmOemPA6ynDNiwOhBh6_v/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
-[Data Visualization](https://karineyeng.github.io/example/week2/W2_DV)
+[Data Visualization](https://karineyeng.github.io/example/week2/DV/W2_DV.html)
