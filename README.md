@@ -32,6 +32,11 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 *****
 ## Week 2 (7.11.2018)
 
+**In class
+Data Visualization
+1. Install "ggplot2" package to draw graphs
+2. Upload results from Rstudio
+
 [Week 2 ppt](https://docs.google.com/presentation/d/e/2PACX-1vR3Ck9XlFN-Q8E9Nkntwz42cz0P95vlGOYVlhwoTdRGsW8vns_5slFzcG8EmOemPA6ynDNiwOhBh6_v/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
-[Week 2 Data Visualization](https://karineyeng.github.io/example/week2/W2_DV)
+[Data Visualization](https://karineyeng.github.io/example/week2/W2_DV)
