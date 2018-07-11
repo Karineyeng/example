@@ -1,31 +1,20 @@
----
-title: "W2-Data Visualization"
-author: "Katherine"
-date: "July 11, 2018"
-output: html_document
----
 
+library(ggplot2)
 
 #Univariable-Discrete (bar chart)
-```{r}
-library(ggplot2)
 ggplot(data=iris, aes(x=Species))+geom_bar(fill="lightblue",colour="black")
-```
 
 #Univariable-Countinuous
-```{r}
 ggplot(data=iris, aes(x=Sepal.Width))+geom_histogram()
-```
 
 #Bivariable-C vs.C (line chart)
-```{r}
 ggplot(data=iris, aes(x=Sepal.Length, y=Sepal.Width))+geom_line(linetype="dashed")+geom_point()
-```
+
 
 #Multivariable-CCD (plot diagram)
-```{r}
 ggplot(data=iris)+geom_point(aes(x=Sepal.Length, y=Sepal.Width, color=Species))
-```
 
-#多變量
+
+
+
 
