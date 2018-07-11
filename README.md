@@ -29,10 +29,10 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 
 [Week1 hw_Practice](https://karineyeng.github.io/example/week1/678.html)
 
-*****
+
 ## Week 2 (7.11.2018)
 
-###In class
+### In class
 #### Data Visualization
 1. Install "ggplot2" package on Rstudio to draw graphs
 2. Use Iris dataset(Continuous or Discrete Numeric) to draw the graph
@@ -41,11 +41,11 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 
 [Task1 Data Visualization](https://karineyeng.github.io/example/week2/DV/W2_DV.html) multivariate figure out!
 
-####Text Mining- WordCloud
+#### Text Mining- WordCloud
 1. Create a Function file and must store in the specific file 
 2. Open another new R script to paste/write down the code from the Mentor's Github
 3. Upload results to Github from Rstudio
-  --> {if the ptt rescricted 18 yrs old person entering, it will need to add another code!
+  --> {if the ptt restricted 18 yrs old person entering, it will need to add another code!
 		  因為你沒處理 over18 的 cookie
 		library(RCurl)
 		curl <- getCurlHandle()
@@ -55,7 +55,7 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 [WordCloudStyling](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html)
 
 ### At home 
-1. Learn code from Datacamp
+1. * Learn code from Datacamp
 
 -----------------------------------------------------------------------------------------------
 [Week 2 ppt](https://docs.google.com/presentation/d/e/2PACX-1vR3Ck9XlFN-Q8E9Nkntwz42cz0P95vlGOYVlhwoTdRGsW8vns_5slFzcG8EmOemPA6ynDNiwOhBh6_v/pub?start=false&loop=false&delayms=3000&slide=id.p)
