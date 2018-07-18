@@ -64,3 +64,8 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 [Task2 Text mining] 
 
 [DataCamp- Intro to R](https://karineyeng.github.io/example/DataCamp/DataCamp_Intro_to_R.html)
+
+## Week 3 (7.18.2018)
+### In class
+
+[Week 3 ppt](https://docs.google.com/presentation/d/e/2PACX-1vSHOd4nTZ6VGfcm0Dv7c9i7ocDwrqcQS2O2FcdEzcftgvVabqiRBgAaoAY_5oubAq1n88Mlye_c2QD0/pub?start=false&loop=false&delayms=3000&slide=id.p)
