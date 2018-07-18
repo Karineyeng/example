@@ -56,7 +56,7 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 [WordCloudStyling](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html)
 
 ### At home 
-1. * Learn code from Datacamp
+1. * Learn code from Datacamp- Intro to R
 
 -----------------------------------------------------------------------------------------------
 [Week 2 ppt](https://docs.google.com/presentation/d/e/2PACX-1vR3Ck9XlFN-Q8E9Nkntwz42cz0P95vlGOYVlhwoTdRGsW8vns_5slFzcG8EmOemPA6ynDNiwOhBh6_v/pub?start=false&loop=false&delayms=3000&slide=id.p)
