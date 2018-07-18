@@ -51,6 +51,7 @@ Hello, my name is **Katherine**! I am a graduate student majoring in MSF at UIUC
 		curl <- getCurlHandle()
 		curlSetOpt(cookie="over18=1", followlocation = TRUE, curl=curl)
 		url <- 'https://www.ptt.cc/bbs/Gossiping/index20865.html'}
+[TextMining Example code](https://ntu-csx-datascience.github.io/106Summer/week2/textMining.html)
 
 [WordCloudStyling](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html)
 
